@@ -1,0 +1,11 @@
+.p:hover::after{
+    content: "";
+    background-color: aqua;
+    height: 1px;
+    
+
+
+}
+.p:hover{
+    color: green;
+}
